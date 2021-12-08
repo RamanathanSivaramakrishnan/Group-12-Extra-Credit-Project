@@ -1,0 +1,19 @@
+
+Steps to run the Project:
+    -->Install the node.js.
+    -->Install XAMPP for the Mysql server.
+
+
+Steps to run the program:
+    -->npm install(in CMD).
+    -->node app.js(To run the server in the port 3000).
+    -->Make sure run the XAMPP and have created a database named sample.
+    -->Table name is restaurant and the fields are the same as in the EERD diagram.
+    -->We have done a simple create,read,update,delete to the restaurant table.
+    
+Tech Stack Used:   
+    -->Node Js(Express) for connecting the UI with Mysql Server and rendering the data dynamicallly.
+    -->XAMPP for mysql server.
+     
+Credentials for the database:
+    -->The credentials for the database are mentioned in the  app.js File
